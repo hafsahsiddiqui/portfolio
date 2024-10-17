@@ -7,6 +7,7 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
+- [Microsoft Excel](#excel)
 - [Group Projects](#groupprojects)
 
 # Data Engineering
@@ -22,6 +23,11 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 ***
 
 # Tableau
+
+***
+
+# Microsoft Excel
+
 
 # Group Projects
 
