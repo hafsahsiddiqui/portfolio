@@ -30,7 +30,7 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [WBA Mid Semester Analytics] | Presented an analysis using statistics to show what is making our members intrigued and what should we work more on | [Powerpoint](https://docs.google.com/presentation/d/19rZIgKnboWiTE3B9bWUiFq9vk4lFKgOSzXO5QIuBWnE/edit?usp=sharing)) |
+| 🦄 [WBA Mid Semester Analytics] | Presented an analysis using statistics to show what is making our members intrigued and what should we work more on | [Powerpoint](https://docs.google.com/presentation/d/19rZIgKnboWiTE3B9bWUiFq9vk4lFKgOSzXO5QIuBWnE/edit?usp=sharing) |
 
 # Group Projects
 
@@ -40,3 +40,4 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 | 🦠 [Wonder & Worries Mobile App Optimization] | I ......| [Powerpoint](https://www.canva.com/design/DAF97Y3yImc/EJikWpMXxy2sHo5h0Zqfag/edit?utm_content=DAF97Y3yImc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 | 🦠 [Monday.com Customer Relationship Management (CRM)] | I ......| [Powerpoint](https://www.canva.com/design/DAGDSxgeKVc/ZK_uvjVkMPMPldTsz8yIGQ/edit?utm_content=DAGDSxgeKVc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 | 🦠 [Jaime's Spanish Village Salsas] | I ......| [Report](https://docs.google.com/document/d/1E_wkHAI0MKJRZEVpedBVKZNEZa0q_gZg4qbEOUGUDkQ/edit?tab=t.0) |
+| 🦠 [Chamberlain Coffee] | I ......| [Report](https://docs.google.com/document/d/1JmJNcSJiDmlgTunDM-AoIh2MBRiz3X3SrL6GIlv795c/edit?tab=t.0)  |
