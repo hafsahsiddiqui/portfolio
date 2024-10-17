@@ -28,6 +28,9 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 
 # Microsoft Excel
 
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+| 🦄 [WBA Mid Semester Analytics] | Presented an analysis using statistics to show what is making our members intrigued and what should we work more on | [Powerpoint](https://docs.google.com/presentation/d/19rZIgKnboWiTE3B9bWUiFq9vk4lFKgOSzXO5QIuBWnE/edit?usp=sharing)) |
 
 # Group Projects
 
