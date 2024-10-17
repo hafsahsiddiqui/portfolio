@@ -43,3 +43,4 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 | 🦠 [Feti)] | I ......| [Powerpoint](https://drive.google.com/drive/folders/1h6mwUxKxe-vCflGpA7eRK0lx4KK1OLPL?dmr=1&ec=wgc-drive-hero-goto) |
 | 🦠 [Jaime's Spanish Village Salsas] | I ......| [Report](https://docs.google.com/document/d/1E_wkHAI0MKJRZEVpedBVKZNEZa0q_gZg4qbEOUGUDkQ/edit?tab=t.0) |
 | 🦠 [Chamberlain Coffee] | I ......| [Report](https://docs.google.com/document/d/1JmJNcSJiDmlgTunDM-AoIh2MBRiz3X3SrL6GIlv795c/edit?tab=t.0)  |
+| 🦠 [Lone Star Clean Fuels Alliance] | I ......| [Report](https://drive.google.com/drive/folders/1IvOmT5QuyiVJzAQTg-i7E0odXnPZEPv0?dmr=1&ec=wgc-drive-hero-goto)|
