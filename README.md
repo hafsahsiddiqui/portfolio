@@ -31,6 +31,7 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 | 🦄 [WBA Mid Semester Analytics] | Presented an analysis using statistics to show what is making our members intrigued and what should we work more on | [Powerpoint](https://docs.google.com/presentation/d/19rZIgKnboWiTE3B9bWUiFq9vk4lFKgOSzXO5QIuBWnE/edit?usp=sharing) |
+| 🦄 [Predictive Analysis]| Helped the client connect their customers to the brand by coming up with 3 different marketing strategies they can do | [Report](https://docs.google.com/document/d/1br5L21k3WLn7qovPVnSqXa6N0fD86djDY5bvX1wvLl4/edit?tab=t.0)  |
 
 # Group Projects
 
@@ -44,5 +45,6 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 | 🦠 [Jaime's Spanish Village Salsas] | I ......| [Report](https://docs.google.com/document/d/1E_wkHAI0MKJRZEVpedBVKZNEZa0q_gZg4qbEOUGUDkQ/edit?tab=t.0) |
 | 🦠 [Chamberlain Coffee] | I ......| [Report](https://docs.google.com/document/d/1JmJNcSJiDmlgTunDM-AoIh2MBRiz3X3SrL6GIlv795c/edit?tab=t.0)  |
 | 🦠 [Lone Star Clean Fuels Alliance] | I ......| [Report](https://drive.google.com/drive/folders/1IvOmT5QuyiVJzAQTg-i7E0odXnPZEPv0?dmr=1&ec=wgc-drive-hero-goto)
-[Powerpoint] (https://docs.google.com/presentation/d/1n64v2n6GHsWGwjyi65S97i6U78RAMn52Thx_FtjNaFU/edit#slide=id.p)|
+[Solution](https://docs.google.com/document/d/1R6Jbwz1REjfq2yUx15M8R-AUk9dBl7toeLhia-SEw2c/edit?tab=t.0) |
+[Powerpoint](https://docs.google.com/presentation/d/1n64v2n6GHsWGwjyi65S97i6U78RAMn52Thx_FtjNaFU/edit#slide=id.p) |
 [Report](https://drive.google.com/drive/folders/1IvOmT5QuyiVJzAQTg-i7E0odXnPZEPv0?dmr=1&ec=wgc-drive-hero-goto) |
