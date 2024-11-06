@@ -30,7 +30,7 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [WBA Mid Semester Analytics] (https://github.com/hafsahsiddiqui/mid-semester-analytics)  Presented an analysis using statistics to show what is making our members intrigued and what should we work more on | [Powerpoint](https://docs.google.com/presentation/d/19rZIgKnboWiTE3B9bWUiFq9vk4lFKgOSzXO5QIuBWnE/edit?usp=sharing) |
+| 🦄 [WBA Mid Semester Analytics](https://github.com/hafsahsiddiqui/mid-semester-analytics)  Presented an analysis using statistics to show what is making our members intrigued and what should we work more on | [Powerpoint](https://docs.google.com/presentation/d/19rZIgKnboWiTE3B9bWUiFq9vk4lFKgOSzXO5QIuBWnE/edit?usp=sharing) |
 | 🦄 [Predictive Analysis]| Helped the client connect their customers to the brand by coming up with 3 different marketing strategies they can do | [Report](https://docs.google.com/document/d/1br5L21k3WLn7qovPVnSqXa6N0fD86djDY5bvX1wvLl4/edit?tab=t.0)  |
 
 # Group Projects
