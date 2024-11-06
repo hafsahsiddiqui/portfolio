@@ -3,7 +3,6 @@
 Welcome to my portfolio! Here, I document a summary of my projects I have done. 
 
 ## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
