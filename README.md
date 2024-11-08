@@ -2,6 +2,8 @@
 
 Welcome to my portfolio! Here, I document a summary of my projects I have done. 
 
+## Individual Projects
+
 | Project Link | Project Description | Tools Used |
 |---|---|---|
 | 🦄 [WBA Mid Semester Analytics](https://github.com/hafsahsiddiqui/mid-semester-analytics) | Presented an analysis using statistics to show what is making our members intrigued and what should we work more on | Microsoft Excel |
