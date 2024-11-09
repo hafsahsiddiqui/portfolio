@@ -7,8 +7,6 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 - [Microsoft Excel](#microsoft-excel)
 - [Group Projects](#group-projects)
 
-***
-
 # SQL
 | Project | Project Description | Tools Used |
 |---|---|---|
