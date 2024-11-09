@@ -4,8 +4,8 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 
 ## Table of Contents
 - [SQL](#sql)
-- [Microsoft Excel](#microsoftexcel)
-- [Group Projects](#groupprojects)
+- [Microsoft Excel](#microsof-texcel)
+- [Group Projects](#group-projects)
 
 - 
 ***
