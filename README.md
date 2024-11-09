@@ -3,9 +3,9 @@
 Welcome to my portfolio! Here, I document a summary of my projects I have done. 
 
 ## Table of Contents
-- [How to Create Your Profile?](#how-to-create-your-profile)
-- [How to Customize Markdown files?](#how-to-customize-markdown-files)
-- [How to Create New Repository?](#how-to-create-new-repository)
+- [SQL](#sql)
+- [Microsoft Excel](#microsoftexcel)
+- [Group Projects](#groupprojects)
 
 - 
 ***
