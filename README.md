@@ -2,14 +2,29 @@
 
 Welcome to my portfolio! Here, I document a summary of my projects I have done. 
 
-## Individual Projects
+## Table of Contents
+- [How to Create Your Profile?](#how-to-create-your-profile)
+- [How to Customize Markdown files?](#how-to-customize-markdown-files)
+- [How to Create New Repository?](#how-to-create-new-repository)
+
+- 
+***
+
+# SQL
+| Project | Project Description | Tools Used |
+|---|---|---|
+
+
+***
+# Microsoft Excel
 
 | Project | Project Description | Tools Used |
 |---|---|---|
 | [WBA Mid Semester Analytics](https://github.com/hafsahsiddiqui/mid-semester-analytics) | Presented an analysis using statistics to show what is making our members intrigued and what should we work more on | Microsoft Excel |
 
 
-## Group Projects
+***
+# Group Projects
 
 | Client | Project Description | Project Link |
 |---|---|---|
