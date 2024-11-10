@@ -10,6 +10,7 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 # SQL
 | Project | Project Description |
 |---|---|
+| 8 weeks SQL Challenges | I tried tackling the 8 case studies from #8WeekSQLChallenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.
 
 ***
 # Microsoft Excel
