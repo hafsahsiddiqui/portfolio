@@ -10,6 +10,7 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 # SQL
 | Project | Project Description |
 |---|---|
+| Blood Bank Management | I managed a blood bank dataset through SQL, overseeing blood types, donors, recipients, and units. It demonstrates expertise in healthcare data handling, optimizing blood supply, and ensuring timely availability.
 
 ***
 # Microsoft Excel
