@@ -4,6 +4,8 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 
 ## Table of Contents
 - [SQL](#sql)
+- [Python](#python)
+- [Tableau](#tableau)
 - [Microsoft Excel](#microsoft-excel)
 - [Group Projects](#group-projects)
 
