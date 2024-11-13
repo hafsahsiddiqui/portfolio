@@ -14,13 +14,22 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 |---|---|
 | 8 Weeks SQL Challenge | I tried tackling the 8 case studies from #8WeekSQLChallenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.
 
+*** 
+# Python
+| Project | Project Description |
+|---|---|
+
+***
+# Tableau
+| Project | Project Description |
+|---|---|
+| Box Office 2024 | Built using a dataset from Kraggle |
 ***
 # Microsoft Excel
 
 | Project | Project Description |
 |---|---|
 | [WBA Mid Semester Analytics](https://github.com/hafsahsiddiqui/mid-semester-analytics) | Presented an analysis using statistics to show what is making our members intrigued and what should we work more on | 
-
 
 ***
 # Group Projects
