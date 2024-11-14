@@ -18,8 +18,8 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 # Python
 | Project | Project Description |
 |---|---|
-| Magic 8 Ball | A program designed to work as a real life Magic 8 Ball. Ask a question and see what it predicts for you.
-| Hangman | A program that allows you to play the Hangman game. Guess the letters before time runs out.
+| [Magic 8 Ball](https://github.com/hafsahsiddiqui/python-projects/blob/13217a21d57add8dc459ae8f97a0964dbe00de00/Magic%208-Ball) | A program designed to work as a real life Magic 8 Ball. Ask a question and see what it predicts for you.
+| [Hangman](https://github.com/hafsahsiddiqui/python-projects/blob/13217a21d57add8dc459ae8f97a0964dbe00de00/Hangman)| A program that allows you to play the Hangman game. Guess the letters before time runs out.
 ***
 # Tableau
 | Project | Project Description |
