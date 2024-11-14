@@ -24,7 +24,7 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 # Tableau
 | Project | Project Description |
 |---|---|
-| [Box Office 2024](https://github.com/hafsahsiddiqui/tableau-projects/blob/a63ea632c84f8ed688fc7a6dcfd17cd477fbd7d4/Box%20Office%202024/READ.ME)| Built using a dataset from Kraggle |
+| [A24 Films (2020-24)](https://github.com/hafsahsiddiqui/tableau-projects/blob/a63ea632c84f8ed688fc7a6dcfd17cd477fbd7d4/Box%20Office%202024/READ.ME)| Built using a dataset from Kraggle |
 ***
 # Microsoft Excel
 
