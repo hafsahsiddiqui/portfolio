@@ -18,7 +18,8 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 # Python
 | Project | Project Description |
 |---|---|
-
+| Magic 8 Ball | A program designed to work as a real life Magic 8 Ball. Ask a question and see what it predicts for you.
+| Hangman | A program that allows you to play the Hangman game. Guess the letters before time runs out.
 ***
 # Tableau
 | Project | Project Description |
