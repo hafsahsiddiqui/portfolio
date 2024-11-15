@@ -12,7 +12,9 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 # SQL
 | Project | Project Description |
 |---|---|
-| 8 Weeks SQL Challenge | I tried tackling the 8 case studies from #8WeekSQLChallenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.
+| A24 Films | I made a database where you can quickly explore, analyze, and gain insights about the filmography of A24 films such as ratings, directors, box office performance, and more 
+| Goodreads | I tried making a SQL database inspired by Goodreads where users can search books, read and write reviews, rate books, creating reading lists, track progress, and more
+| 8 Weeks SQL Challenge | I tried tackling the 8 case studies from the [8 Weeks SQL Challenge](https://8weeksqlchallenge.com/). I wanted to demonstrate my SQL query writing and problem-solving skills more
 
 *** 
 # Python
