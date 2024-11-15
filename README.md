@@ -39,10 +39,9 @@ A mix of marketing and business-related projects I have completed with my peers
 
 | Client | Project Description | Project Link |
 |---|---|---|
-| Guayaki| Helped the client connect their customers to the brand by coming up with 3 different marketing strategies they can do |[Powerpoint](https://www.canva.com/design/DAEbyQ0o3TY/ZEwhoq_KjmNN1OB6qXJk5A/edit?utm_content=DAEbyQ0o3TY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|
 | Wonder & Worries | Mobile App Optimization | [Powerpoint](https://www.canva.com/design/DAF97Y3yImc/EJikWpMXxy2sHo5h0Zqfag/edit?utm_content=DAF97Y3yImc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 | Monday.com | Customer Relationship Management (CRM) | [Powerpoint](https://www.canva.com/design/DAGDSxgeKVc/ZK_uvjVkMPMPldTsz8yIGQ/edit?utm_content=DAGDSxgeKVc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
-| Luckin Coffee | I ......| [Powerpoint](https://drive.google.com/drive/folders/1hWFxK1qjcXtxVos3tC6_UDIK669zqSmJ?dmr=1&ec=wgc-drive-hero-goto) |
+| Luckin Coffee | The purpose of this report is to inform Luckin Coffee of the issues in their marketing and brand approach in relation to their target market in China.| [Google Drive](https://drive.google.com/drive/folders/1hWFxK1qjcXtxVos3tC6_UDIK669zqSmJ?dmr=1&ec=wgc-drive-hero-goto) |
 | Feti | I ......| [Powerpoint](https://drive.google.com/drive/folders/1h6mwUxKxe-vCflGpA7eRK0lx4KK1OLPL?dmr=1&ec=wgc-drive-hero-goto) |
 | Jaime's Spanish Village Salsas | The report outlines the marketing strategy for Jaime’s Spanish Village Salsas, focusing on customer acquisition, retention, and in-person/online marketing efforts. The brand aims to reconnect with UT students and alumni by offering authentic, family-passed-down salsas. |[Report](https://docs.google.com/document/d/1E_wkHAI0MKJRZEVpedBVKZNEZa0q_gZg4qbEOUGUDkQ/edit?tab=t.0) |
 | Chamberlain Coffee | The report analyzed how Chamberlain Coffee aligns its brand with Gen Z values and explores ways to strengthen its position in the coffee industry while expanding its appeal beyond its core Gen Z audience. | [Report](https://docs.google.com/document/d/1JmJNcSJiDmlgTunDM-AoIh2MBRiz3X3SrL6GIlv795c/edit?tab=t.0)  |
