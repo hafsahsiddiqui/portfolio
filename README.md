@@ -24,7 +24,7 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 # Tableau
 | Project | Project Description | Dashboard Link
 |---|---|--- 
-| [A24 Films](https://github.com/hafsahsiddiqui/tableau-projects/blob/a63ea632c84f8ed688fc7a6dcfd17cd477fbd7d4/Box%20Office%202024/READ.ME)| I got an old public dataset from Kraggle and then manually added all the films and their details from 2023-2025 before using it to build my Tableau dashboard | 
+| [A24 Films](https://github.com/hafsahsiddiqui/tableau-projects/tree/77893aec78a5fcd33766e6a6236cf0215b207f03/A24%20Films)| I got an old public dataset from Kraggle and then manually added all the films and their details from 2023-2025 before using it to build my Tableau dashboard | 
 ***
 # Microsoft Excel
 
