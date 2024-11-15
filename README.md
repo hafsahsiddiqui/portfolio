@@ -6,7 +6,6 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Microsoft Excel](#microsoft-excel)
 - [Group Projects](#group-projects)
 
 # SQL
@@ -27,12 +26,6 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 | Project | Project Description | Dashboard Link
 |---|---|--- 
 | [A24 Films](https://github.com/hafsahsiddiqui/tableau-projects/tree/77893aec78a5fcd33766e6a6236cf0215b207f03/A24%20Films)| I got an old public dataset from Kraggle and then manually added all the films and their details from 2023-2025 before using it to build my Tableau dashboard | 
-***
-# Microsoft Excel
-
-| Project | Project Description |
-|---|---|
-| [WBA Mid Semester Analytics](https://github.com/hafsahsiddiqui/mid-semester-analytics) | Presented an analysis using statistics to show what is making our members intrigued and what should we work more on | 
 
 ***
 # Group Projects
