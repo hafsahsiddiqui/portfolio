@@ -7,10 +7,8 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 |---|---|---
 | [Healthcare Data Analysis]() | | Microsoft Excel
 | [A24 Films](https://github.com/hafsahsiddiqui/sql-projects/tree/e4c18d97d9935ef8329571a2b510d07ba0e649c7/A24%20Films) | I wrote queries that allowed me to quickly explore, analyze, and gain insights about the filmography of A24 films such as ratings, directors, box office performance, and more using a dataset | Microsoft Excel SQL Tableau
-| [Book Tracker](https://github.com/hafsahsiddiqui/sql-projects/blob/854caffc7cbeac33263e9eaed2ed2fe939141551/Goodreads%20/README.md)| I tried making a SQL database from scratch inspired by Goodreads where users can search books, read and write reviews, rate books, creating reading lists, track progress, and more | SQL
-| [2024 Spotify Wrapped Up]()| | Power BI, Pandas, Tableau, 
-| [E-commerce Product Analysis](https://github.com/hafsahsiddiqui/python-projects/blob/13217a21d57add8dc459ae8f97a0964dbe00de00/Hangman)| | Python
-| [Social Media Sentiment Analysis](https://github.com/hafsahsiddiqui/python-projects/blob/13217a21d57add8dc459ae8f97a0964dbe00de00/Hangman)|  | Python
+| [My Spotify Listening Data Analysis]()|  I tried making a SQL database from scratch inspired by Goodreads where users can search books, read and write reviews, rate books, creating reading lists, track progress, and more | Power BI, Pandas, Tableau, 
+| [Social Media Marketing Analysis](https://github.com/hafsahsiddiqui/python-projects/blob/13217a21d57add8dc459ae8f97a0964dbe00de00/Hangman)|  | Python
 | [Country Populations](https://github.com/hafsahsiddiqui/jupyter-notebook/blob/681bc7102bb83b0a299a3bb1c32c8304fee05a5b/Country%20Populations.ipynb)|I extracted country population data from Wikipedia using Python and BeautifulSoup. The scraped data is cleaned and structured into a pandas DataFrame for further analysis | Python |
 | [Magic 8 Ball](https://github.com/hafsahsiddiqui/python-projects/blob/13217a21d57add8dc459ae8f97a0964dbe00de00/Magic%208-Ball) | A program designed to work as a real life Magic 8 Ball. Ask a question and see what it predicts for you. | Python
 | [Hangman](https://github.com/hafsahsiddiqui/python-projects/blob/13217a21d57add8dc459ae8f97a0964dbe00de00/Hangman)| A program that allows you to play the Hangman game. Guess the letters before time runs out. | Python
