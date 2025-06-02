@@ -5,7 +5,7 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 # Personal Projects
 | Project | Project Description | Tools
 |---|---|---
-| [A24 Films](https://github.com/hafsahsiddiqui/sql-projects/tree/730296e84a8dec3ce04daab1f0a9378b86596154/A24%20Films)| I wrote queries that allowed me to quickly explore, analyze, and gain insights about the filmography of A24 films such as ratings, directors, box office performance, and more using a dataset | Microsoft Excel SQL Tableau
+| [A24 Films](https://github.com/hafsahsiddiqui/sql-projects/tree/730296e84a8dec3ce04daab1f0a9378b86596154/A24%20Films)| I wrote queries that allowed me to quickly explore, analyze, and gain insights about the filmography of A24 films such as ratings, directors, box office performance, and more using a dataset | Excel <br> SQL <br> Tableau
 | [Inside my Spotify](https://github.com/hafsahsiddiqui/python-projects/blob/e2e932ce3a1665e01aa91a1499764a0ae88c2d1f/spotify-listening/README.md)| I explored my personal listening history using Python to uncover patterns, preferences, and habits that Spotify Wrapped overlooked | Python |
 | [Country Populations](https://github.com/hafsahsiddiqui/jupyter-notebook/blob/681bc7102bb83b0a299a3bb1c32c8304fee05a5b/Country%20Populations.ipynb)|I extracted country population data from Wikipedia using Python and BeautifulSoup. The scraped data is cleaned and structured into a pandas DataFrame for further analysis | Python |
 | [Magic 8 Ball](https://github.com/hafsahsiddiqui/python-projects/blob/b9d03d84e09298ab57b149ff245b15639d0baca2/Magic%208-Ball) | A program designed to work as a real life Magic 8 Ball. Ask a question and see what it predicts for you. | Python
