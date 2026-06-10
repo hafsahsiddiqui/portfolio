@@ -10,6 +10,14 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 | [Country Populations](https://github.com/hafsahsiddiqui/jupyter-notebook/blob/681bc7102bb83b0a299a3bb1c32c8304fee05a5b/Country%20Populations.ipynb)|I extracted country population data from Wikipedia using Python and BeautifulSoup. The scraped data is cleaned and structured into a pandas DataFrame for further analysis | Python |
 | [Magic 8 Ball](https://github.com/hafsahsiddiqui/python-projects/blob/83e3b8af23588b96fc2c829769e18f9c7da0f61d/Magic%208%20Ball) | A program designed to work as a real life Magic 8 Ball. Ask a question and see what it predicts for you. | Python
 | [Hangman](https://github.com/hafsahsiddiqui/python-projects/blob/83e3b8af23588b96fc2c829769e18f9c7da0f61d/Hangman%20Game)| A program that allows you to play the Hangman game. Guess the letters before time runs out. | Python
+
+# Learning Projects 
+| Project | Project Description | Tools
+|---|---|---
+| [Host a Website on Amazon S3]() | I will demonstrate how to host a static website using Amazon S3 to gain hands-on experience with AWS and cloud services. This includes working with bucket policies, uploading website files like index.html, using S3 endpoint URLs, and understanding how ACLs control access to bucket objects. | Amazon S3
+| [Amazon RWB]() || Python |
+
+
 # Group Projects
 
 A mix of marketing and business-related projects I have completed with my peers
