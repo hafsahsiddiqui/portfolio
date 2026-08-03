@@ -15,8 +15,8 @@ Welcome to my portfolio! Here, I document a summary of my projects I have done.
 | Project | Project Description | Tools
 |---|---|---
 | [Host a Website on Amazon S3](https://github.com/hafsahsiddiqui/aws-projects/blob/main/host-a-website-on-S3) | I will demonstrate how to host a static website using Amazon S3 to gain hands-on experience with AWS and cloud services. This includes working with bucket policies, uploading website files like index.html, using S3 endpoint URLs, and understanding how ACLs control access to bucket objects. | Amazon S3
-| [Amazon RWB]() || Python |
-
+| [Amazon RWB]() ||  |
+| [Amazon RDS]() ||  |
 
 # Group Projects
 
